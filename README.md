@@ -1,1 +1,3 @@
 # HufUsdConverter
+
+Android learning project
